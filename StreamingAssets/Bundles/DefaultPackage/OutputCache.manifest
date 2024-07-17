@@ -1,0 +1,161 @@
+ManifestFileVersion: 0
+CRC: 3632544124
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_bundles_configs.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_bundles_prefabs_bomb_bottle.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_2:
+      Name: assets_bundles_prefabs_boomerang.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_3:
+      Name: assets_bundles_prefabs_brick.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_4:
+      Name: assets_bundles_prefabs_disk_bat.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_5:
+      Name: assets_bundles_prefabs_gas_bottle.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_6:
+      Name: assets_bundles_prefabs_gear_hammer.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_7:
+      Name: assets_bundles_prefabs_gear_peak.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_8:
+      Name: assets_bundles_prefabs_javelin.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_9:
+      Name: assets_bundles_prefabs_knife.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_10:
+      Name: assets_bundles_prefabs_mace.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_11:
+      Name: assets_bundles_prefabs_paddle_chainsaw.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_12:
+      Name: assets_bundles_prefabs_pan.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_13:
+      Name: assets_bundles_prefabs_wrench.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_materials.bundle
+        Dependency_1: share_assets_gameres_weapons_1_meshes.bundle
+    Info_14:
+      Name: assets_bundles_views_attributeview.bundle
+      Dependencies:
+        Dependency_0: assets_bundles_audios.bundle
+        Dependency_1: share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+        Dependency_2: share_assets_gameres_sprites_main.bundle
+        Dependency_3: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle
+    Info_15:
+      Name: assets_bundles_views_gamesettingwnd.bundle
+      Dependencies:
+        Dependency_0: assets_bundles_audios.bundle
+        Dependency_1: share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+        Dependency_2: share_assets_gameres_sprites_main.bundle
+        Dependency_3: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle
+        Dependency_4: share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle
+    Info_16:
+      Name: assets_bundles_views_mainwnd.bundle
+      Dependencies:
+        Dependency_0: assets_bundles_views_attributeview.bundle
+        Dependency_1: assets_bundles_views_weaponview.bundle
+        Dependency_2: assets_bundles_audios.bundle
+        Dependency_3: share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+        Dependency_4: share_assets_gameres_sprites_main.bundle
+        Dependency_5: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle
+        Dependency_6: share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle
+        Dependency_7: share_assets_bundles_views.bundle
+        Dependency_8: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_slider.bundle
+        Dependency_9: share_assets_bundles_textures.bundle
+    Info_17:
+      Name: assets_bundles_views_weaponview.bundle
+      Dependencies:
+        Dependency_0: assets_bundles_audios.bundle
+        Dependency_1: share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+        Dependency_2: share_assets_gameres_sprites_main.bundle
+        Dependency_3: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle
+        Dependency_4: share_assets_gameres_sprites_weapon.bundle
+    Info_18:
+      Name: assets_bundles_atlas.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_sprites_main.bundle
+        Dependency_1: share_assets_gameres_sprites_weapon.bundle
+    Info_19:
+      Name: assets_bundles_audios.bundle
+      Dependencies: {}
+    Info_20:
+      Name: share_assets_gameres_weapons_1_materials.bundle
+      Dependencies:
+        Dependency_0: share_assets_gameres_weapons_1_textures.bundle
+    Info_21:
+      Name: share_assets_gameres_weapons_1_textures.bundle
+      Dependencies: {}
+    Info_22:
+      Name: share_assets_gameres_weapons_1_meshes.bundle
+      Dependencies: {}
+    Info_23:
+      Name: share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_24:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_25:
+      Name: share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle
+      Dependencies: {}
+    Info_26:
+      Name: share_assets_gameres_sprites_main.bundle
+      Dependencies: {}
+    Info_27:
+      Name: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle
+      Dependencies: {}
+    Info_28:
+      Name: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle
+      Dependencies: {}
+    Info_29:
+      Name: share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_30:
+      Name: share_assets_bundles_views.bundle
+      Dependencies: {}
+    Info_31:
+      Name: share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_slider.bundle
+      Dependencies: {}
+    Info_32:
+      Name: share_assets_gameres_sprites_weapon.bundle
+      Dependencies: {}
+    Info_33:
+      Name: share_assets_bundles_textures.bundle
+      Dependencies: {}

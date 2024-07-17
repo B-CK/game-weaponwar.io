@@ -1,0 +1,1074 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2021.3.23f1c1",
+        "BuildDate": "2024/7/17 20:06:53",
+        "BuildSeconds": 3,
+        "BuildTarget": 20,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-07-17-1206",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": true,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 104,
+        "MainAssetTotalCount": 29,
+        "AllBundleTotalCount": 34,
+        "AllBundleTotalSize": 3286930,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Configs_attributeconfigcategory",
+            "AssetPath": "Assets/Bundles/Configs/attributeconfigcategory.json",
+            "AssetGUID": "82ff7356d20b82e4c83cd43956790d54",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_characterconfigcategory",
+            "AssetPath": "Assets/Bundles/Configs/characterconfigcategory.json",
+            "AssetGUID": "13b526756f1621b4196af617e48d0d62",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_localizeconfig_cncategory",
+            "AssetPath": "Assets/Bundles/Configs/localizeconfig_cncategory.json",
+            "AssetGUID": "dd099cfb03302994293cb22b08c1c36c",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_localizeconfig_encategory",
+            "AssetPath": "Assets/Bundles/Configs/localizeconfig_encategory.json",
+            "AssetGUID": "2d509fe3f2a2b7e44a37ede78bfe4996",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_localizeconfig_excel_cncategory",
+            "AssetPath": "Assets/Bundles/Configs/localizeconfig_excel_cncategory.json",
+            "AssetGUID": "087d970a952161949988e0d548f23fb7",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_localizeconfig_excel_encategory",
+            "AssetPath": "Assets/Bundles/Configs/localizeconfig_excel_encategory.json",
+            "AssetGUID": "7beab0dc5497b1a469f427a892bc25a6",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Configs_weaponconfigcategory",
+            "AssetPath": "Assets/Bundles/Configs/weaponconfigcategory.json",
+            "AssetGUID": "fe40dce9d6991054f956ebb71d995896",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs.bundle",
+            "MainBundleSize": 4131,
+            "DependAssets": []
+        },
+        {
+            "Address": "Prefabs_bomb_bottle",
+            "AssetPath": "Assets/Bundles/Prefabs/bomb_bottle.prefab",
+            "AssetGUID": "791058c0f6a7bef4b9922b6a717b3f03",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_bomb_bottle.bundle",
+            "MainBundleSize": 3377,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png",
+                "Assets/GameRes/Weapons_1/Meshes/bottle_003.fbx"
+            ]
+        },
+        {
+            "Address": "Prefabs_boomerang",
+            "AssetPath": "Assets/Bundles/Prefabs/boomerang.prefab",
+            "AssetGUID": "89d6a90e280f64a4fb05e3954cc892ba",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_boomerang.bundle",
+            "MainBundleSize": 3383,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/boomerang_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_brick",
+            "AssetPath": "Assets/Bundles/Prefabs/brick.prefab",
+            "AssetGUID": "f187d7575903f6d4b82a4d8e41a3cc3a",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_brick.bundle",
+            "MainBundleSize": 3366,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Meshes/brick_001.fbx",
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_disk_bat",
+            "AssetPath": "Assets/Bundles/Prefabs/disk_bat.prefab",
+            "AssetGUID": "d5d4d1974a6091448a201bf004006588",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_disk_bat.bundle",
+            "MainBundleSize": 3399,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png",
+                "Assets/GameRes/Weapons_1/Meshes/disk_bat_001.fbx"
+            ]
+        },
+        {
+            "Address": "Prefabs_gas_bottle",
+            "AssetPath": "Assets/Bundles/Prefabs/gas_bottle.prefab",
+            "AssetGUID": "925281da92b2d574bbf9221c0576a0e3",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_gas_bottle.bundle",
+            "MainBundleSize": 3365,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/gas_bottle_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_gear_hammer",
+            "AssetPath": "Assets/Bundles/Prefabs/gear_hammer.prefab",
+            "AssetGUID": "ea8b36a66a20d414f931d5d7224931f8",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_gear_hammer.bundle",
+            "MainBundleSize": 3806,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Meshes/gear_hammer_001.fbx",
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_gear_peak",
+            "AssetPath": "Assets/Bundles/Prefabs/gear_peak.prefab",
+            "AssetGUID": "b8a42f6fb53b05f4a8d9795805b464d3",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_gear_peak.bundle",
+            "MainBundleSize": 3547,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png",
+                "Assets/GameRes/Weapons_1/Meshes/gear_peak_001.fbx"
+            ]
+        },
+        {
+            "Address": "Prefabs_javelin",
+            "AssetPath": "Assets/Bundles/Prefabs/javelin.prefab",
+            "AssetGUID": "cfd67dfc43384214c91cf4e35d374f37",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_javelin.bundle",
+            "MainBundleSize": 3427,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png",
+                "Assets/GameRes/Weapons_1/Meshes/poker_001.fbx"
+            ]
+        },
+        {
+            "Address": "Prefabs_knife",
+            "AssetPath": "Assets/Bundles/Prefabs/knife.prefab",
+            "AssetGUID": "bc70b0203cb21e74e82c3b4103adebd9",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_knife.bundle",
+            "MainBundleSize": 3355,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Meshes/knife_002.fbx",
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_mace",
+            "AssetPath": "Assets/Bundles/Prefabs/mace.prefab",
+            "AssetGUID": "f26013e0becfad448bcb191f87c6ae42",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_mace.bundle",
+            "MainBundleSize": 3521,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/mace_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_paddle_chainsaw",
+            "AssetPath": "Assets/Bundles/Prefabs/paddle_chainsaw.prefab",
+            "AssetGUID": "04067cace5fbffb4e8fd907afd10d2c4",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_paddle_chainsaw.bundle",
+            "MainBundleSize": 3488,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/paddle_chainsaw_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_pan",
+            "AssetPath": "Assets/Bundles/Prefabs/pan.prefab",
+            "AssetGUID": "1db9d11c64e91004aa8ad2a52216c6cc",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_pan.bundle",
+            "MainBundleSize": 3389,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/pan_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "Prefabs_wrench",
+            "AssetPath": "Assets/Bundles/Prefabs/wrench.prefab",
+            "AssetGUID": "f8f0165831a71004bb79968975764104",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_wrench.bundle",
+            "MainBundleSize": 3371,
+            "DependAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat",
+                "Assets/GameRes/Weapons_1/Meshes/wrench_001.fbx",
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "Address": "AttributeView",
+            "AssetPath": "Assets/Bundles/Views/AttributeView.prefab",
+            "AssetGUID": "bff6a8cd1eb7db546a5aae5dad1363a9",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_views_attributeview.bundle",
+            "MainBundleSize": 12407,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular SDF.asset",
+                "Assets/Bundles/Audios/GenericButton14.wav",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/GameRes/Sprites/Main/btn_icon_enemy.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular.ttf",
+                "Assets/GameRes/Sprites/Main/btn_icon_sword_1.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_Bg.png"
+            ]
+        },
+        {
+            "Address": "GameSettingWnd",
+            "AssetPath": "Assets/Bundles/Views/GameSettingWnd.prefab",
+            "AssetGUID": "7e7d336301bf54a4fa9798c8b5e1fcd3",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_views_gamesettingwnd.bundle",
+            "MainBundleSize": 26719,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular SDF.asset",
+                "Assets/Bundles/Audios/GenericButton14.wav",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy.ttf",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy SDF.asset",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/GameRes/Sprites/Main/btn_icon_check.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular.ttf",
+                "Assets/GameRes/Sprites/Main/Icon_Close01.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Popup/Popup01.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Fonts/LilitaOneRegularSDF_Outline.asset",
+                "Assets/GameRes/Sprites/Main/Icon_Ad_l.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_revive_2.png"
+            ]
+        },
+        {
+            "Address": "MainWnd",
+            "AssetPath": "Assets/Bundles/Views/MainWnd.prefab",
+            "AssetGUID": "8c17c47d0547c6c41b15a04df5c0e238",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_views_mainwnd.bundle",
+            "MainBundleSize": 26446,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_BgShadow.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_setting_2.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Light.png",
+                "Assets/Bundles/Views/clickArea.anim",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Bg.png",
+                "Assets/Bundles/Views/AttributeView.prefab",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/GameRes/Sprites/Main/btn_icon_enemy.png",
+                "Assets/GameRes/Sprites/Main/Icon_Lock02_l_White.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_sword_1.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_Bg.png",
+                "Assets/GameRes/Sprites/Main/Icon_Ad_l.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular SDF.asset",
+                "Assets/Bundles/Audios/GenericButton14.wav",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Fill_Bg.png",
+                "Assets/Bundles/Views/WeaponView.prefab",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy SDF.asset",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Fill_Shadow.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Bg.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular.ttf",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Popup/Popup01.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Fonts/LilitaOneRegularSDF_Outline.asset",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Border.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Light.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Bg.png",
+                "Assets/Bundles/Views/_btnClickArea.controller",
+                "Assets/GameRes/Sprites/Weapon/brick.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_revive_2.png",
+                "Assets/Bundles/Textures/RTScene.asset",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Yellow.png"
+            ]
+        },
+        {
+            "Address": "WeaponView",
+            "AssetPath": "Assets/Bundles/Views/WeaponView.prefab",
+            "AssetGUID": "852b821432e516d42a7845f2ffa9ce1c",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_views_weaponview.bundle",
+            "MainBundleSize": 10777,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular SDF.asset",
+                "Assets/Bundles/Audios/GenericButton14.wav",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_BgShadow.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy SDF.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular.ttf",
+                "Assets/GameRes/Sprites/Main/Icon_Lock02_l_White.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_Bg.png",
+                "Assets/GameRes/Sprites/Main/Icon_Ad_l.png",
+                "Assets/GameRes/Sprites/Weapon/brick.png"
+            ]
+        },
+        {
+            "Address": "Atlas_Main",
+            "AssetPath": "Assets/Bundles/Atlas/Main.spriteatlasv2",
+            "AssetGUID": "7bb2df2fbe6c41748bceae28d99b0288",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_atlas.bundle",
+            "MainBundleSize": 146802,
+            "DependAssets": [
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_47_Fill_Bg.png",
+                "Assets/GameRes/Sprites/Main/BasicFrame_Round_10.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Light.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_setting_2.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_powerup.png",
+                "Assets/GameRes/Sprites/Main/Background_02_Top_Gradient.png",
+                "Assets/GameRes/Sprites/Main/Background_05_Top.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_user_2.png",
+                "Assets/GameRes/Sprites/Main/Background_03_Blue_Bottom.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_shield.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Bg.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Red.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Blue03.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_check.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_enemy.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_47_Fill_Shadow.png",
+                "Assets/GameRes/Sprites/Main/Icon_Lock02_l_White.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_sword_1.png",
+                "Assets/GameRes/Sprites/Main/Icon_Close01.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_strength.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_knight.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Light.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Yellow.png",
+                "Assets/GameRes/Sprites/Main/Icon_Ad_l.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Bg.png",
+                "Assets/GameRes/Sprites/Main/Background_04_Gray_Bottom.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_revive_2.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_life.png"
+            ]
+        },
+        {
+            "Address": "Atlas_Weapon",
+            "AssetPath": "Assets/Bundles/Atlas/Weapon.spriteatlasv2",
+            "AssetGUID": "bb4f82199b51a534db2249477def29c6",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_atlas.bundle",
+            "MainBundleSize": 146802,
+            "DependAssets": [
+                "Assets/GameRes/Sprites/Weapon/bomb_bottle.png",
+                "Assets/GameRes/Sprites/Weapon/gear_peak.png",
+                "Assets/GameRes/Sprites/Weapon/javelin.png",
+                "Assets/GameRes/Sprites/Weapon/paddle_chainsaw.png",
+                "Assets/GameRes/Sprites/Weapon/disk_bat.png",
+                "Assets/GameRes/Sprites/Weapon/boomerang.png",
+                "Assets/GameRes/Sprites/Weapon/wrench.png",
+                "Assets/GameRes/Sprites/Weapon/gear_hammer.png",
+                "Assets/GameRes/Sprites/Weapon/gas_bottle.png",
+                "Assets/GameRes/Sprites/Weapon/knife.png",
+                "Assets/GameRes/Sprites/Weapon/pan.png",
+                "Assets/GameRes/Sprites/Weapon/brick.png",
+                "Assets/GameRes/Sprites/Weapon/mace.png"
+            ]
+        },
+        {
+            "Address": "BLUNT_Swing_05_mono",
+            "AssetPath": "Assets/Bundles/Audios/BLUNT_Swing_05_mono.wav",
+            "AssetGUID": "36cb1f68cd79ed64aac9ad2a7d0131d9",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_audios.bundle",
+            "MainBundleSize": 24448,
+            "DependAssets": []
+        },
+        {
+            "Address": "BLUNT_Swing_Hit_Generic_07_mono",
+            "AssetPath": "Assets/Bundles/Audios/BLUNT_Swing_Hit_Generic_07_mono.wav",
+            "AssetGUID": "dd5aa16f943dc5646adf3b3175f3449d",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_audios.bundle",
+            "MainBundleSize": 24448,
+            "DependAssets": []
+        },
+        {
+            "Address": "GenericButton14",
+            "AssetPath": "Assets/Bundles/Audios/GenericButton14.wav",
+            "AssetGUID": "78b9ff0c08e762c489e6aa8ddd139d87",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_audios.bundle",
+            "MainBundleSize": 24448,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_bundles_configs.bundle",
+            "FileName": "2841b9cd0667305d95155001db04382a.bundle",
+            "FileHash": "2841b9cd0667305d95155001db04382a",
+            "FileCRC": "c709a1d1",
+            "FileSize": 4131,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Configs/attributeconfigcategory.json",
+                "Assets/Bundles/Configs/characterconfigcategory.json",
+                "Assets/Bundles/Configs/localizeconfig_cncategory.json",
+                "Assets/Bundles/Configs/localizeconfig_encategory.json",
+                "Assets/Bundles/Configs/localizeconfig_excel_cncategory.json",
+                "Assets/Bundles/Configs/localizeconfig_excel_encategory.json",
+                "Assets/Bundles/Configs/weaponconfigcategory.json"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_bomb_bottle.bundle",
+            "FileName": "f6d408ac4281124ba2c40cc3bbd8bd1e.bundle",
+            "FileHash": "f6d408ac4281124ba2c40cc3bbd8bd1e",
+            "FileCRC": "24cbd97e",
+            "FileSize": 3377,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/bomb_bottle.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_boomerang.bundle",
+            "FileName": "d27ea1ad99eb07b9471446f7cde53eac.bundle",
+            "FileHash": "d27ea1ad99eb07b9471446f7cde53eac",
+            "FileCRC": "b54de43d",
+            "FileSize": 3383,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/boomerang.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_brick.bundle",
+            "FileName": "6335aa68e6846e82c3f7025f15617b63.bundle",
+            "FileHash": "6335aa68e6846e82c3f7025f15617b63",
+            "FileCRC": "524709a7",
+            "FileSize": 3366,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/brick.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_disk_bat.bundle",
+            "FileName": "8e216be4510f6f2a89a098d0c56c472e.bundle",
+            "FileHash": "8e216be4510f6f2a89a098d0c56c472e",
+            "FileCRC": "79b7cef6",
+            "FileSize": 3399,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/disk_bat.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_gas_bottle.bundle",
+            "FileName": "5c8b2a1bf0e2bbb5b51701005eeac577.bundle",
+            "FileHash": "5c8b2a1bf0e2bbb5b51701005eeac577",
+            "FileCRC": "d158cf6f",
+            "FileSize": 3365,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/gas_bottle.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_gear_hammer.bundle",
+            "FileName": "d6f0d7923f2cf1d5a51a0511f80f7793.bundle",
+            "FileHash": "d6f0d7923f2cf1d5a51a0511f80f7793",
+            "FileCRC": "56f1d204",
+            "FileSize": 3806,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/gear_hammer.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_gear_peak.bundle",
+            "FileName": "cf20529899f45ec2598c12dbdb4fd21e.bundle",
+            "FileHash": "cf20529899f45ec2598c12dbdb4fd21e",
+            "FileCRC": "2e9e8bb4",
+            "FileSize": 3547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/gear_peak.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_javelin.bundle",
+            "FileName": "89957503129d63e97619c8315849b3f0.bundle",
+            "FileHash": "89957503129d63e97619c8315849b3f0",
+            "FileCRC": "3a7c1910",
+            "FileSize": 3427,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/javelin.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_knife.bundle",
+            "FileName": "6b3cf9d5d740fcc47533eef1606aff6f.bundle",
+            "FileHash": "6b3cf9d5d740fcc47533eef1606aff6f",
+            "FileCRC": "d9f3ec59",
+            "FileSize": 3355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/knife.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_mace.bundle",
+            "FileName": "2594eab16e3afd45d22b4be70f4e024c.bundle",
+            "FileHash": "2594eab16e3afd45d22b4be70f4e024c",
+            "FileCRC": "3f3f147c",
+            "FileSize": 3521,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/mace.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_paddle_chainsaw.bundle",
+            "FileName": "bf4686a67d7f18eb2bb3fc9b87341b5d.bundle",
+            "FileHash": "bf4686a67d7f18eb2bb3fc9b87341b5d",
+            "FileCRC": "af5d2be2",
+            "FileSize": 3488,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/paddle_chainsaw.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_pan.bundle",
+            "FileName": "eed82a994c98042eb17a94208dacac9b.bundle",
+            "FileHash": "eed82a994c98042eb17a94208dacac9b",
+            "FileCRC": "c19097a8",
+            "FileSize": 3389,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/pan.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_wrench.bundle",
+            "FileName": "39987fac448c025b2b8ea5595c383851.bundle",
+            "FileHash": "39987fac448c025b2b8ea5595c383851",
+            "FileCRC": "63280ddb",
+            "FileSize": 3371,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_materials.bundle",
+                "share_assets_gameres_weapons_1_meshes.bundle",
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Prefabs/wrench.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_views_attributeview.bundle",
+            "FileName": "971e125c6132e2a9c6c210f71912c65a.bundle",
+            "FileHash": "971e125c6132e2a9c6c210f71912c65a",
+            "FileCRC": "f4cd9e7c",
+            "FileSize": 12407,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_bundles_audios.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle",
+                "share_assets_gameres_sprites_main.bundle",
+                "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Views/AttributeView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_views_gamesettingwnd.bundle",
+            "FileName": "de173c5564ab3109d7a66fa514f6b89d.bundle",
+            "FileHash": "de173c5564ab3109d7a66fa514f6b89d",
+            "FileCRC": "44060155",
+            "FileSize": 26719,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_bundles_audios.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle",
+                "share_assets_gameres_sprites_main.bundle",
+                "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Views/GameSettingWnd.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_views_mainwnd.bundle",
+            "FileName": "700a711a9bd99888ee8cd5e2ca7b44d2.bundle",
+            "FileHash": "700a711a9bd99888ee8cd5e2ca7b44d2",
+            "FileCRC": "5b9dc8b3",
+            "FileSize": 26446,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_bundles_audios.bundle",
+                "assets_bundles_views_attributeview.bundle",
+                "assets_bundles_views_weaponview.bundle",
+                "share_assets_bundles_textures.bundle",
+                "share_assets_bundles_views.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_slider.bundle",
+                "share_assets_gameres_sprites_main.bundle",
+                "share_assets_gameres_sprites_weapon.bundle",
+                "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Views/MainWnd.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_views_weaponview.bundle",
+            "FileName": "93369b633376affa901281d26095ded5.bundle",
+            "FileHash": "93369b633376affa901281d26095ded5",
+            "FileCRC": "2bf94431",
+            "FileSize": 10777,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_bundles_audios.bundle",
+                "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle",
+                "share_assets_gameres_sprites_main.bundle",
+                "share_assets_gameres_sprites_weapon.bundle",
+                "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Views/WeaponView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_atlas.bundle",
+            "FileName": "a60c8e76fc62ae64a5bc4838955504a9.bundle",
+            "FileHash": "a60c8e76fc62ae64a5bc4838955504a9",
+            "FileCRC": "74805617",
+            "FileSize": 146802,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_sprites_main.bundle",
+                "share_assets_gameres_sprites_weapon.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Atlas/Main.spriteatlasv2",
+                "Assets/Bundles/Atlas/Weapon.spriteatlasv2"
+            ]
+        },
+        {
+            "BundleName": "assets_bundles_audios.bundle",
+            "FileName": "d19f5c8f98504a2b5e792119c3617c73.bundle",
+            "FileHash": "d19f5c8f98504a2b5e792119c3617c73",
+            "FileCRC": "46b01f43",
+            "FileSize": 24448,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Audios/BLUNT_Swing_05_mono.wav",
+                "Assets/Bundles/Audios/BLUNT_Swing_Hit_Generic_07_mono.wav",
+                "Assets/Bundles/Audios/GenericButton14.wav"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_weapons_1_materials.bundle",
+            "FileName": "b321663f6250ecf768798c78be5eefbf.bundle",
+            "FileHash": "b321663f6250ecf768798c78be5eefbf",
+            "FileCRC": "e61924b1",
+            "FileSize": 76959,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_gameres_weapons_1_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Weapons_1/Materials/Color.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_weapons_1_textures.bundle",
+            "FileName": "d3cc4aaa88b26eb1f51fd47f9971ad0d.bundle",
+            "FileHash": "d3cc4aaa88b26eb1f51fd47f9971ad0d",
+            "FileCRC": "16454591",
+            "FileSize": 267314,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Weapons_1/Textures/Texture.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_weapons_1_meshes.bundle",
+            "FileName": "1d8226dee0bddad9a96f78bbffdd0dd1.bundle",
+            "FileHash": "1d8226dee0bddad9a96f78bbffdd0dd1",
+            "FileCRC": "96f50b71",
+            "FileSize": 232197,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Weapons_1/Meshes/bottle_003.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/boomerang_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/brick_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/disk_bat_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/gas_bottle_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/gear_hammer_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/gear_peak_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/poker_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/knife_002.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/mace_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/paddle_chainsaw_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/pan_001.fbx",
+                "Assets/GameRes/Weapons_1/Meshes/wrench_001.fbx"
+            ]
+        },
+        {
+            "BundleName": "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+            "FileName": "c2671d48fde9345308d425029e39ea88.bundle",
+            "FileHash": "c2671d48fde9345308d425029e39ea88",
+            "FileCRC": "43690452",
+            "FileSize": 2207438,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular SDF.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy.ttf",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Regular.ttf",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/SourceHanSansCN-Heavy SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "152fb99a857b4f85ed3e4ecdfee523d8.bundle",
+            "FileHash": "152fb99a857b4f85ed3e4ecdfee523d8",
+            "FileCRC": "44d31aaf",
+            "FileSize": 23725,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "FileName": "ecb8054c470b23a1118226d9f3c76ed6.bundle",
+            "FileHash": "ecb8054c470b23a1118226d9f3c76ed6",
+            "FileCRC": "3969f651",
+            "FileSize": 7149,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_sprites_main.bundle",
+            "FileName": "87fb689624c164f004c84e2aff8000e5.bundle",
+            "FileHash": "87fb689624c164f004c84e2aff8000e5",
+            "FileCRC": "a1ff41e8",
+            "FileSize": 8955,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Sprites/Main/btn_icon_enemy.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_sword_1.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_check.png",
+                "Assets/GameRes/Sprites/Main/Icon_Close01.png",
+                "Assets/GameRes/Sprites/Main/Icon_Ad_l.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_revive_2.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_setting_2.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Light.png",
+                "Assets/GameRes/Sprites/Main/Icon_Lock02_l_White.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushLeft_White_Bg.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Light.png",
+                "Assets/GameRes/Sprites/Main/Label_Ribbon_FlushRight_White_Bg.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Yellow.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_47_Fill_Bg.png",
+                "Assets/GameRes/Sprites/Main/BasicFrame_Round_10.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_powerup.png",
+                "Assets/GameRes/Sprites/Main/Background_02_Top_Gradient.png",
+                "Assets/GameRes/Sprites/Main/Background_05_Top.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_user_2.png",
+                "Assets/GameRes/Sprites/Main/Background_03_Blue_Bottom.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_shield.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Red.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_21_Fill_Blue03.png",
+                "Assets/GameRes/Sprites/Main/Slider_Parallelogram_47_Fill_Shadow.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_strength.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_knight.png",
+                "Assets/GameRes/Sprites/Main/Background_04_Gray_Bottom.png",
+                "Assets/GameRes/Sprites/Main/btn_icon_life.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_frame.bundle",
+            "FileName": "61cf50eb9e0744a36c3a3492dd38a155.bundle",
+            "FileHash": "61cf50eb9e0744a36c3a3492dd38a155",
+            "FileCRC": "19e31a5d",
+            "FileSize": 5347,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_Bg.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Frame/ListFrame04_BgShadow.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_popup.bundle",
+            "FileName": "1a8255572e4270ca891fec35d89f5074.bundle",
+            "FileHash": "1a8255572e4270ca891fec35d89f5074",
+            "FileCRC": "1bb2b49d",
+            "FileSize": 5229,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Popup/Popup01.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_gui-casualblue_resourcesdata_fonts.bundle",
+            "FileName": "6995cc85885d3cd8a6d218c5463c798d.bundle",
+            "FileHash": "6995cc85885d3cd8a6d218c5463c798d",
+            "FileCRC": "ce113514",
+            "FileSize": 124010,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Fonts/LilitaOneRegularSDF_Outline.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_bundles_views.bundle",
+            "FileName": "8b3b59e358b970b7ee8ce1ae22469068.bundle",
+            "FileHash": "8b3b59e358b970b7ee8ce1ae22469068",
+            "FileCRC": "a72b5ab7",
+            "FileSize": 9984,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Views/clickArea.anim",
+                "Assets/Bundles/Views/_btnClickArea.controller"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_gui-casualblue_resourcesdata_sprites_components_slider.bundle",
+            "FileName": "ab187ee32601e9c9981c87c582115671.bundle",
+            "FileHash": "ab187ee32601e9c9981c87c582115671",
+            "FileCRC": "883d56cd",
+            "FileSize": 6762,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Bg.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Fill_Bg.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Fill_Shadow.png",
+                "Assets/GameRes/GUI-CasualBlue/ResourcesData/Sprites/Components/Slider/Slider_Parallelogram_47_Border.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameres_sprites_weapon.bundle",
+            "FileName": "ce6371a05f1ab3ad9af857475c213a29.bundle",
+            "FileHash": "ce6371a05f1ab3ad9af857475c213a29",
+            "FileCRC": "649030b6",
+            "FileSize": 13020,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Sprites/Weapon/brick.png",
+                "Assets/GameRes/Sprites/Weapon/bomb_bottle.png",
+                "Assets/GameRes/Sprites/Weapon/gear_peak.png",
+                "Assets/GameRes/Sprites/Weapon/javelin.png",
+                "Assets/GameRes/Sprites/Weapon/paddle_chainsaw.png",
+                "Assets/GameRes/Sprites/Weapon/disk_bat.png",
+                "Assets/GameRes/Sprites/Weapon/boomerang.png",
+                "Assets/GameRes/Sprites/Weapon/wrench.png",
+                "Assets/GameRes/Sprites/Weapon/gear_hammer.png",
+                "Assets/GameRes/Sprites/Weapon/gas_bottle.png",
+                "Assets/GameRes/Sprites/Weapon/knife.png",
+                "Assets/GameRes/Sprites/Weapon/pan.png",
+                "Assets/GameRes/Sprites/Weapon/mace.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_bundles_textures.bundle",
+            "FileName": "4aa80da550af66d2f701dc46cef6b139.bundle",
+            "FileHash": "4aa80da550af66d2f701dc46cef6b139",
+            "FileCRC": "ff922639",
+            "FileSize": 2317,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Bundles/Textures/RTScene.asset"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
